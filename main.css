@@ -1,0 +1,87 @@
+.css-3d-text {
+  text-align: center;
+  font-size: 46px;
+  color: #ff9807;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 0px 0px 0 rgb(250, 147, 2), 1px 1px 0 rgb(245, 142, 0),
+    2px 2px 0 rgb(240, 137, 0), 3px 3px 0 rgb(235, 132, 0),
+    4px 4px 0 rgb(230, 127, 0), 5px 5px 0 rgb(225, 122, 0),
+    6px 6px 0 rgb(220, 117, 0), 7px 7px 0 rgb(215, 112, 0),
+    8px 8px 0 rgb(210, 107, 0), 9px 9px 0 rgb(205, 102, 0),
+    10px 10px 0 rgb(200, 97, 0), 11px 11px 10px rgba(0, 0, 0, 0.6),
+    11px 11px 1px rgba(0, 0, 0, 0.5), 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/*Youtube Section*/
+h1 {
+  text-align: center;
+}
+
+/*Youtube Section*/
+iframe,
+object,
+embed {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.youtubevideo {
+  text-align: center;
+}
+
+/*Button*/
+.myButton {
+  background-color: #7e9484;
+  border-radius: 28px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 16px 50px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.myButton {
+  background-color: #44c767;
+  border-radius: 28px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 16px 50px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.buttoncenter {
+  text-align: center;
+}
+
+.container {
+  margin-top: auto;
+}
+
+.demoFont {
+  text-align: center;
+}
